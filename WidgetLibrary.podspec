@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
       s.vendored_frameworks = "WidgetFramework.xcframework"
     s.platform = :ios
     s.swift_version = "5.7"
-    s.ios.deployment_target  = '16.0'
+    s.ios.deployment_target  = '14.0'
     s.requires_arc = true
 
   s.source_files = 'WidgetLibrary/Classes/**/*'
