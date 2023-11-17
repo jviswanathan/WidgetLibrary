@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WidgetLibrary_Tests' do
+  pod 'WidgetLibrary', :path => '../'
+  
+  
+end
